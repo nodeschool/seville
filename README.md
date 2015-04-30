@@ -1,5 +1,7 @@
 # NodeSchool en Sevilla
 
+[![NodeSchool Sevilla](img/nodeschool-sevilla.png)](http://www.meetup.com/Bitnami-Sevilla/events/222186033/)
+
 ###Comienza con Node.js!
 El [NodeSchool International Day](http://nodeschool.io/) es el **día 23 de Mayo** de 2015. Se organizan eventos por todo el mundo para animar a los desarrolladores a familiarizarse con Node.js. Si aún no te has animado a probar Node.js, estás de suerte porque ¡también se hará en Sevilla!
 
