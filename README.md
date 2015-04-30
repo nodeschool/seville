@@ -23,7 +23,7 @@ Necesitarás tu portátil para hacer los ejemplos y te mostraremos cómo instala
 ### Pero yo ya he trabajado con Node.js
 Si ya eres todo un experto con Node.js anímate y contacta con nosotros [abriendo un issue](https://github.com/nodeschool/seville/issues) para participar como mentor.
 
-Quienes estaremos ayudando en el evento?
+Contamos con mentores de la talla de:
 
 * [Javier Baena](https://twitter.com/JvrBaena)
 * Daniel Lopez
