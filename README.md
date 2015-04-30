@@ -36,6 +36,6 @@ Si lo que buscas es aprender apúntate desde hoy mismo en el [Meetup de Bitnami 
 ### ¿Pero aún hay más?
 Pues sí. Entre los participantes sortearemos 2 [BeagleBone](http://beagleboard.org/black) para demostrar a todo el mundo lo que eres capaz de hacer con Node.js.
 
-[![NodeSchool Sevilla BeagleBone](img/beaglebone.jpg)](http://www.meetup.com/Bitnami-Sevilla/events/222186033/)
+[![NodeSchool Sevilla BeagleBone](img/beagleboard.jpg)](http://www.meetup.com/Bitnami-Sevilla/events/222186033/)
 
 Para cualquier pregunta o sugerencia puedes abrir un [issue en GitHub](https://github.com/nodeschool/seville/issues) o contactar con [@beltranrubo](https://twitter.com/beltranrubo).
