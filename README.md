@@ -14,6 +14,7 @@ El evento tendrá lugar en [República Argentina 31B, 1ª Planta, Módulo A](htt
   - 10:00 Sesión de introducción a Node.js
   - 11:00 Aprendiendo Node.js con los tutoriales de NodeSchool
   - 13:30 Pizza time!
+  - 15:00 Fin
 
 Stay tuned! Iremos publicando más novedades sobre el evento 
 
