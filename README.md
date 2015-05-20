@@ -33,6 +33,7 @@ Contamos con mentores de la talla de:
 * [Álvaro Aroca](https://twitter.com/aarocatwitt)
 * [Beltrán Rueda](https://twitter.com/beltranrubo)
 * [Jorge Marín] (https://twitter.com/chipironcin)
+* [Pedro J. Molina] (https://github.com/pjmolina)
 
 ### Genial! ¿Cómo me apunto?
 Si lo que buscas es aprender apúntate desde hoy mismo en el [Meetup de Bitnami Sevilla](http://www.meetup.com/Bitnami-Sevilla/events/222186033/) y compártelo con tus amigos, colegas, etc. Seguro que a gente que conoces también le interesa.
